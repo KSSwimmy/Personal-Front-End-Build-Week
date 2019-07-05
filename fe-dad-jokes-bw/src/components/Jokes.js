@@ -23,7 +23,7 @@ class Jokes extends Component {
                 </ul>
                 <div className='addJoke'>
 
-                    <Link to='dad-jokes-form'>Add a Dad Joke</Link>
+                    <Link to='dad-jokes-form'>Add A Dad Joke</Link>
 
                 </div>
             </div>
